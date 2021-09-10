@@ -2,16 +2,24 @@
 
 
 Mysql info:
+
 Username: itexps
+
 password: ITexps@123
+
 Port: 3306 and 22 
+
 Database name: itexpertdatabase
+
 Ec2 information:
+
 Public key: 44.193.203.244
+
 
 Requirements:
 I want to create EC2 instance in AWS  and install  MySQL database in it
 Create Security group allow incoming traffic to database
+
 
 Username: itexps
 password: ITexps@123
@@ -20,6 +28,7 @@ Database name:
 Try to use variable and configuration details in different file, so each environment I can change the above details.
 Configure service to start as soon as instance start
 You can use windows or Linux AMI
+
 
 1-	Creating , VPC, internet gateway, route table and public subnet with 2 instances insides, all codes for each resource are available in terraform main,tf file. 
 2-	Create a security group to allow access through port 
