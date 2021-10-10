@@ -3,17 +3,17 @@
 
 Mysql info:
 
-Username: itexps
+Username: xxxx
 
-password: ITexps@123
+password: xxxxx
 
 Port: 3306 and 22 
 
-Database name: itexpertdatabase
+Database name: xxxxxxxe
 
 Ec2 information:
 
-Public key: 44.193.203.244
+Public key: xx.xx.xx.xx
 
 
 Requirements:
