@@ -70,13 +70,13 @@ variable "availability_zones" {
   type = "us-east-1a"
 }
 variable "AWS_ACCESS_KEY"{
-default = "AKIAW4L22JFM3T6ALVVX"
+default = "xxxxxxxxx"
    type = "string"
    description = "access key"
 }
 
    variable "AWS_SECRET_KEY"{
-default = "cy6G2lPnKB7eLwmwoa0jd/iZI2/ak6u62PhGoCdI"
+default = "xxxxxxxxxxxxxxxxxxxxxxxxxxxx"
   type = "string"
    description = "secret key"
    }
