@@ -1,6 +1,6 @@
 aws_region     = "us-east-1"
 AWS_ACCESS_KEY = "xxxxxxxxxx"
-AWS_SECRET_KEY = "xxxxxxxxxxxxxxxx"
+AWS_SECRET_KEY = "xxxxxxxxxxxxxxxxx"
 
 vpc_cidr           = "10.0.0.0/16"
 public_subnet_cidr = "10.0.2.0/24"
